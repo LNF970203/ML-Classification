@@ -1,3 +1,2 @@
 # ML-Classification
-Logistic regression, LDA, KNN classification
-This notebook is consisted with data preprocessing and classification algorithms
+Diffrent classification techniques carried out on different kinds of data sets
